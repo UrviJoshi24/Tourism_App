@@ -21,5 +21,3 @@ To get started with the Tourism App, follow these steps:
 - [Flutter Cookbook](https://flutter.dev/docs/cookbook)
 - [FlutLab - Flutter Online IDE](https://flutlab.io/editor/e3edc0b2-abaa-40ce-8512-c742f4f9943c)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
